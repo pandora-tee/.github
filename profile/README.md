@@ -4,7 +4,7 @@ Pandora is a symbolic execution tool designed for truthful validation of Intel S
 
 Pandora is the result of our research publication at the 45th IEEE Symposium on Security and Privacy (IEEE S&P 2024) and should be cited as:
 
-> Alder, F., Daniel, L. A., Oswald, D., Piessens, F., & Van Bulck, J. (2024, May). Pandora: P>
+> Alder, F., Daniel, L. A., Oswald, D., Piessens, F., & Van Bulck, J. (2024, May). Pandora: Principled Symbolic Validation of Intel SGX Enclave Runtimes. In 45th IEEE Symposium on Security and Privacy-IEEE S&P 2024. IEEE.
 
 Bibtex:
 
