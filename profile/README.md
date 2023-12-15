@@ -4,17 +4,17 @@ Pandora is a symbolic execution tool designed for truthful validation of Intel S
 
 Pandora is the result of our [research publication you can read here](https://falder.org/files/paper/2024_pandora.pdf) at the 45th IEEE Symposium on Security and Privacy (IEEE S&P 2024) and should be cited as:
 
-> Alder, F., Daniel, L. A., Oswald, D., Piessens, F., & Van Bulck, J. (2024, May). Pandora: Principled Symbolic Validation of Intel SGX Enclave Runtimes. In 45th IEEE Symposium on Security and Privacy-IEEE S&P 2024. IEEE.
+> Alder, F., Daniel, L. A., Oswald, D., Piessens, F., & Van Bulck, J. (2024, May). Pandora: Principled Symbolic Validation of Intel SGX Enclave Runtimes. In 45th IEEE Symposium on Security and Privacy (S&P). IEEE.
 
 Bibtex:
 
 ```
 @inproceedings{alder2024pandora,
-  title={Pandora: Principled Symbolic Validation of Intel SGX Enclave Runtimes},
-  author={Alder, Fritz and Daniel, Lesly-Ann and Oswald, David and Piessens, Frank and Van Bu>
-  booktitle={45th IEEE Symposium on Security and Privacy-IEEE S\&P 2024},
-  year={2024},
-  organization={IEEE}
+    title={Pandora: Principled Symbolic Validation of {Intel SGX} Enclave Runtimes},
+    author={Alder, Fritz and Daniel, Lesly-Ann and Oswald, David and Piessens, Frank and Van Bulck, Jo},
+    booktitle={45th {IEEE} Symposium on Security and Privacy ({S\&P})},
+    month=May,
+    year=2024,
 }
 ```
 This organization has four repositories:
